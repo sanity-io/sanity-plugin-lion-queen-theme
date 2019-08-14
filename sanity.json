@@ -1,0 +1,8 @@
+{
+  "parts": [
+    {
+      "implements": "part:@sanity/base/theme/variables/override-style",
+      "path": "./src/variables.css"
+    }
+  ]
+}

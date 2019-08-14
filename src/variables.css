@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+:root {
+  --font-family-sans-serif: 'Nunito';
+  --font-size-base: 18px;
+  --text-color: #3C1609;
+  --brand-primary: #cc4a1e;
+  --brand-primary--inverted: color(var(--brand-primary) contrast(50%));
+  --brand-secondary: #ffa800;
+  --brand-secondary--inverted: #333;
+  --selectable-item-base: var(--brand-primary);
+  --selected-item-color--inverted: var(--brand-primary--inverted);
+  --main-navigation-color: var(--brand-secondary);
+  --main-navigation-color--inverted: var(--text-color);
+  --default-button-primary-color: var(--brand-primary);
+  --default-button-primary-color--inverted: #fff;
+}

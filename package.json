@@ -1,0 +1,17 @@
+{
+  "name": "sanity-plugin-lion-queen-theme",
+  "version": "1.0.0",
+  "description": "A Lion Queen theme for the Studio",
+  "keywords": [
+    "sanity",
+    "studio",
+    "theme"
+  ],
+  "author": "Victoria Bergquist",
+  "license": "MIT",
+  "sanityTemplate": {
+    "suggestedName": "lion-queen-theme",
+    "requiresConfig": false,
+    "minimumBaseVersion": "0.119.0"
+  }
+}
