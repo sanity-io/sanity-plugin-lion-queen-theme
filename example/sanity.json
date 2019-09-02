@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "project": {
+    "name": "studio-branding"
+  },
+  "api": {
+    "projectId": "q85xva7e",
+    "dataset": "production"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/components",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/desk-tool",
+    "barcode-input",
+    "lion-queen-theme"
+  ],
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schema.js"
+    }
+  ]
+}

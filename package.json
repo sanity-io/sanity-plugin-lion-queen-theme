@@ -9,6 +9,7 @@
   ],
   "author": "Victoria Bergquist",
   "license": "MIT",
+  "repository": "https://github.com/sanity-io/sanity-plugin-lion-queen-theme",
   "sanityTemplate": {
     "suggestedName": "lion-queen-theme",
     "requiresConfig": false,
