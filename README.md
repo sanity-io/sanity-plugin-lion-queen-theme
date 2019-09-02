@@ -4,8 +4,6 @@ A Lion Queen theme that overrides the default look of the [Sanity](https://sanit
 
 ![Screenshot of the Lion Queen theme](.github/lion-queen-theme.png)
 
-This theme was created as a part of our Branding the Studio tutorial. Find the CSS variables this theme overrides in [variables.css](./src/variables.css).
-
 ## Installation
 
 At the root of your Sanity project, run this command in the terminal.
@@ -24,9 +22,9 @@ $ npm install # or yarn install
 $ sanity start
 ```
 
-## Styling the Studio
+## CSS Variables
 
-This theme only uses a handful of the available variables that lets you give the Studio a custom look:
+This theme only uses a handful of the available variables that lets you give the Studio a custom look. Find the CSS variables this theme overrides in [variables.css](./src/variables.css). 
 
 ```css
 /* Brand colors */
