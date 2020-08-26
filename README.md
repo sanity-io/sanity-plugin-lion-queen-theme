@@ -1,6 +1,6 @@
 # Lion Queen Studio Theme
 
-A Lion Queen theme that overrides the default look of the [Sanity](https://sanity.io) Studio. Created as part of the [How to Brand your Studio](#) tutorial.
+A Lion Queen theme that overrides the default look of the [Sanity](https://sanity.io) Studio. Created as part of the [How to Brand your Studio](https://www.sanity.io/guides/how-to-brand-your-studio) tutorial.
 
 ![Screenshot of the Lion Queen theme](https://github.com/sanity-io/sanity-plugin-lion-queen-theme/raw/master/.github/lion-queen-theme.png)
 
